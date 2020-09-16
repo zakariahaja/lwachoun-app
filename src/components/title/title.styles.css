@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Bigelow Rules';
+    src: local('Bigelow Rules'), url('../../fonts/BigelowRules-Regular.ttf') format('truetype');
+}
+.title {
+    font-family: Bigelow Rules, cursive;
+    font-size: 72px;
+    color: #27b0ad;
+    text-transform: capitalize;
+}

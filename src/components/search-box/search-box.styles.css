@@ -1,0 +1,14 @@
+.search-box{
+    -webkit-appearance:none;
+    outline:none;
+    padding:10px;
+    width:150px;
+    line-height:30px;
+    margin-bottom:30px;
+    border-radius: 5px;
+    border: 1px solid #c8c6c6;
+    box-shadow: none;
+}
+.search-box:focus{
+    box-shadow: 0 0 0 4px #d5ebfc;
+}
