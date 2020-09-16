@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lwachoun-app/static/css/main.41f17742.chunk.css",
+    "main.js": "/lwachoun-app/static/js/main.d9c71d82.chunk.js",
+    "main.js.map": "/lwachoun-app/static/js/main.d9c71d82.chunk.js.map",
+    "runtime-main.js": "/lwachoun-app/static/js/runtime-main.55067295.js",
+    "runtime-main.js.map": "/lwachoun-app/static/js/runtime-main.55067295.js.map",
+    "static/js/2.891dee9b.chunk.js": "/lwachoun-app/static/js/2.891dee9b.chunk.js",
+    "static/js/2.891dee9b.chunk.js.map": "/lwachoun-app/static/js/2.891dee9b.chunk.js.map",
+    "index.html": "/lwachoun-app/index.html",
+    "precache-manifest.12c257be33915d3dc0edbf3b967ac605.js": "/lwachoun-app/precache-manifest.12c257be33915d3dc0edbf3b967ac605.js",
+    "service-worker.js": "/lwachoun-app/service-worker.js",
+    "static/css/main.41f17742.chunk.css.map": "/lwachoun-app/static/css/main.41f17742.chunk.css.map",
+    "static/js/2.891dee9b.chunk.js.LICENSE.txt": "/lwachoun-app/static/js/2.891dee9b.chunk.js.LICENSE.txt",
+    "static/media/title.styles.css": "/lwachoun-app/static/media/BigelowRules-Regular.f1af54fc.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55067295.js",
+    "static/js/2.891dee9b.chunk.js",
+    "static/css/main.41f17742.chunk.css",
+    "static/js/main.d9c71d82.chunk.js"
+  ]
+}
